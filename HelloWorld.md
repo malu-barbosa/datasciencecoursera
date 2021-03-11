@@ -3,6 +3,8 @@ HelloWorld
 Maria Lucia
 11/03/2021
 
+\#\#This is a markdown file
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
